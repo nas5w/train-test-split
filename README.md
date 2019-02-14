@@ -4,6 +4,14 @@
 
 Split your dataset into training and test datasets.
 
+## Install
+
+Install using node package manager:
+
+```bash
+npm install train-test-split
+```
+
 ## Parameters
 
 ```
