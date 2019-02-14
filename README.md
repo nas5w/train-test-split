@@ -1,4 +1,6 @@
-# train-test-split
+[!train-test-split][https://imgur.com/hko9ren]
+
+[![Build Status](https://travis-ci.org/nas5w/train-test-split.svg?branch=master)](https://travis-ci.org/nas5w/train-test-split) [![Codecov Status](https://codecov.io/gh/nas5w/train-test-split/branch/master/graph/badge.svg)](https://codecov.io/gh/nas5w/train-test-split/branch/master)
 
 Split your dataset into training and test datasets.
 
